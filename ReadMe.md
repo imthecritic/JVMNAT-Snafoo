@@ -1,4 +1,4 @@
-#Snack Food JVM Nerdery Assessment Test
+# Snack Food JVM Nerdery Assessment Test
 
 This is Jasmine Farley's submission for the JVM Nerdery Assement Test. This is a web application 
 title "Snafoo," a app that allows the employees at the Nerdery vote and suggest snacks. 
@@ -13,7 +13,7 @@ Because I didn't want to spend more than the suggested 12 hours, I couldn't get 
 I wasn't familar on how to test certain things within Spring with unit tests.  
 (Next time I'll try the TDD approach with a spring application)
 
-###Timeline:
+### Timeline:
 
 I was travelling 7/14/17-7/18/17, so I pulled down the code but wasn't able to 
 work on it because I didn't have consistent internet or time, due to flights, trains, and 
@@ -26,7 +26,7 @@ So Tuesday,Wednesday, and Thursday I was figuring things out.
 Friday-Sunday(7/21/17-7/23/17) is when I actually started coding. The project and spent about 
 3-5 hours on it each of those days. 
 
-##Base Project Architecture
+## Base Project Architecture
 * **Language**: Java 8
 * **Build System**: Gradle
 * **Web Framework**: Spring Boot
@@ -34,7 +34,7 @@ Friday-Sunday(7/21/17-7/23/17) is when I actually started coding. The project an
 * **JSON**: Jackson
 * **View Templates**: Freemarker
 
-##Folder Structure
+## Folder Structure
 * `src/main/java` - Source code for the web application
 * `src/main/resources` - Resources that will be included in the web application
 * `test/java` - Unit tests
